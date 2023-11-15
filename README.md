@@ -8,7 +8,7 @@
 
 ### 👦 About Me
 
-- 🌎 I'm a React developer from Italy
+- 🌎 I'm a ```React Developer``` from Italy
 
 - 🌱 I’m currently learning **Next.js**
 
