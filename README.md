@@ -1,11 +1,13 @@
-[![banner](./img/tramonto.jpeg)](https://github.com/jefreve)
+[![banner](./img/making-music-in-outer-space.jpg)](https://github.com/jefreve)
 
 <h1 align="center">Hi 👋, I'm Jeferson Revello</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=1000&height=30&lines=Hello+this+is+jefreve%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 ---
+
 ### 👦 About Me
+
 - 🌎 I'm a full-stack developer from Italy
 
 - 🌱 I’m currently learning **Next.js**
@@ -30,12 +32,14 @@
 
 ---
 
-### 🔥 My Stats 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=jefreve&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=jefreve&theme=react" />
+### 🔥 My Stats
+
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=jefreve&count_private=true&show_icons=true&theme=react" /> <img width="425" src="https://streak-stats.demolab.com/?user=jefreve&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=jefreve&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/jefreve/github-stats">
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jefreve&locale=en&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false&theme=react" alt="jefreve" /></p>
 
-
 ### 👀 Visitor Info
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jefreve&label=Profile%20views&color=0e75b6&style=flat" alt="jefreve" /> </p>
