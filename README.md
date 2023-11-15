@@ -1,4 +1,4 @@
-[![MasterHead](https://asset.cloudinary.com/djzufuplj/c4894c3cd99b586025e8afd52f560ef1)]
+[![banner](./img/tramonto.jpeg)](https://github.com/jefreve)
 
 <h1 align="center">Hi 👋, I'm Jeferson Revello</h1>
 <h3 align="center">A passionate full-stack developer from Italy</h3>
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jefreve&show_icons=true&locale=en" alt="jefreve" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jefreve&" alt="jefreve" /></p>
-
